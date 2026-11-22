@@ -10,6 +10,14 @@ South Africa · Remote · US hours
 
 <br/>
 
+### Work
+
+**[VisionX](https://visionex.agency)**: around 15 AI agents in production for paying clients. Data from Discord, Whop, email and Fathom goes into one Postgres database, with RAG agents and a dashboard on top.
+
+**[AllMinecraft.net](https://allminecraft.net)**: a Minecraft community hub I built and run on my own. 1,200+ registered users.
+
+<br/>
+
 ### Stack
 
 <p>
@@ -26,11 +34,3 @@ South Africa · Remote · US hours
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord bots" />
 </p>
-
-<br/>
-
-### Work
-
-**[VisionX](https://visionex.agency)**: around 15 AI agents in production for paying clients. Data from Discord, Whop, email and Fathom goes into one Postgres database, with RAG agents and a dashboard on top.
-
-**[AllMinecraft.net](https://allminecraft.net)**: a Minecraft community hub I built and run on my own. 1,200+ registered users.
