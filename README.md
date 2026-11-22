@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=60&lines=Skye+Wigley;AI+Automation+%26+Full-Stack+Engineer" alt="Skye Wigley, AI Automation & Full-Stack Engineer" />
 
-Co-founder of **VisionX**. I build AI agents, data pipelines and automations for online course businesses, then keep them running.
+Co-founder of **[VisionX](https://visionex.agency)**. I build AI agents, data pipelines and automations for online course businesses, then keep them running.
 
 South Africa · Remote · US hours
 
@@ -31,6 +31,6 @@ South Africa · Remote · US hours
 
 ### Work
 
-**VisionX**: around 15 AI agents in production for paying clients. Data from Discord, Whop, email and Fathom goes into one Postgres database, with RAG agents and a dashboard on top.
+**[VisionX](https://visionex.agency)**: around 15 AI agents in production for paying clients. Data from Discord, Whop, email and Fathom goes into one Postgres database, with RAG agents and a dashboard on top.
 
-**[AllMinecraft.net](https://allminecraft.net)**: a Minecraft community hub I built and run on my own. 1,200+ accounts.
+**[AllMinecraft.net](https://allminecraft.net)**: a Minecraft community hub I built and run on my own. 1,200+ registered users.
