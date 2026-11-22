@@ -1,27 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&height=60&lines=Skye+Wigley;AI+Automation+%26+Full-Stack+Engineer;I+ship+AI+systems+to+production." alt="Skye Wigley — AI Automation & Full-Stack Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=60&lines=Skye+Wigley;AI+Automation+%26+Full-Stack+Engineer" alt="Skye Wigley, AI Automation & Full-Stack Engineer" />
 
-**I build, run and maintain production AI systems for paying clients.**
-<br/>
-Co-founder of **VisionX** · South Africa · Remote · Working US hours
+Co-founder of **VisionX**. I build AI agents, data pipelines and automations for online course businesses, then keep them running.
+
+South Africa · Remote · US hours
 
 </div>
 
 <br/>
 
-### ⚡ What I do
-
-I take problems with no off-the-shelf solution, work out how to solve them, and get a working system into production. Then I keep it running.
-
-- **AI agents & RAG:** knowledge-base agents, voice, transcription, image generation, tool-connected agents
-- **Data pipelines:** ingesting Discord, Whop, email, Fathom and other APIs into one secure Postgres database
-- **Automation:** complex n8n workflows with webhooks, batching, error handling and high-volume processing
-- **Full-stack & infra:** Next.js dashboards, self-hosted on Docker + Coolify, Cloudflare in front
-
-<br/>
-
-### 🛠 Stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -40,24 +29,8 @@ I take problems with no off-the-shelf solution, work out how to solve them, and 
 
 <br/>
 
-### 🚀 Featured work
+### Work
 
-**VisionX** · *co-founder*
-AI workflows, automations and software for online coaches and course owners, built to help them understand their students, improve retention and reduce churn.
-- ~15 production AI agents running for paying clients on setup + retainer contracts
-- Multi-source ingestion into a central, secure PostgreSQL database
-- RAG agents for both students and course owners, plus Discord bots and Whop apps
-- Secure web dashboard for managing the whole system
+**VisionX**: around 15 AI agents in production for paying clients. Data from Discord, Whop, email and Fathom goes into one Postgres database, with RAG agents and a dashboard on top.
 
-**[AllMinecraft.net](https://allminecraft.net)** · *solo, end to end*
-Community hub with 13 content categories, accounts, leaderboards, ranks, trending/featured feeds and docs.
-- 1,200+ registered accounts
-- Frontend, backend, database and hosting, all mine
-
-<br/>
-
-<div align="center">
-
-<sub>Most of my client work is private and confidential. Ask me for a walkthrough of a demo environment built on synthetic data.</sub>
-
-</div>
+**[AllMinecraft.net](https://allminecraft.net)**: a Minecraft community hub I built and run on my own. 1,200+ accounts.
